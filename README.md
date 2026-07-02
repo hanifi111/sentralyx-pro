@@ -1,2 +1,2 @@
-# sentralyx-beta
-Official Sentralyx beta releases
+# sentralyx-pro
+Official Sentralyx Pro v1.0.0
